@@ -13,10 +13,6 @@ classes = ['american_bulldog', 'american_pit_bull_terrier', 'basset_hound', 'bea
            'pug', 'saint_bernard', 'samoyed', 'scottish_terrier', 'shiba_inu', 'staffordshire_bull_terrier',
            'wheaten_terrier', 'yorkshire_terrier']
 
-# classes = ['american_bulldog', 'chihuahua','pomeranian',
-#            'pug', 'samoyed', 'staffordshire_bull_terrier',
-#            ]
-
 img_size = (128, 128)
 batch_size = 32
 
